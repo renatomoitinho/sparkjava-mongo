@@ -1,8 +1,9 @@
 - git clone and open/run  pom.xml for your favorite idea
+- start mongo database
 - default http://127.0.0.1:4567/
 
 
-Requeriments
+Requirement
 -----------
 - [mongo] installed
 - [java 8] jdk
